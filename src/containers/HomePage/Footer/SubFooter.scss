@@ -1,0 +1,40 @@
+// CSS for SubFooter
+.sub-footer-container {
+    background-color: white;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    padding: 30px 150px;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+
+
+    .content-left,
+    .content-center,
+    .content-right {
+        height: 100%;
+        width: 33.4%;
+
+        div {
+            width: fit-content;
+            margin: 0 auto;
+
+            h5 {
+                margin-bottom: 25px;
+            }
+
+            a {
+                color: #666666;
+                text-decoration: none;
+                display: block;
+                width: fit-content;
+                margin-bottom: 20px;
+
+                &:hover {
+                    border-bottom: 2px solid grey;
+                }
+            }
+        }
+
+    }
+}

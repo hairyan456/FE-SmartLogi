@@ -1,0 +1,108 @@
+.modal-voucher-container {
+    .modal-body {
+        width: 100%;
+        height: auto;
+
+        span {
+            color: orange;
+            font-size: 36px;
+            font-weight: 750;
+            animation: blink-animation 1.5s infinite;
+
+            @keyframes blink-animation {
+                0% {
+                    opacity: 1;
+                }
+
+                50% {
+                    opacity: 0;
+                }
+
+                100% {
+                    opacity: 1;
+                }
+            }
+        }
+
+        display: flex;
+        flex-direction: column;
+
+        .business-voucher {
+            width: 100%;
+            height: auto;
+            padding-bottom: 33px;
+            border-bottom: 1px solid #ccc;
+
+            .title {
+                width: 100%;
+                height: 10%;
+                margin-bottom: 18px;
+
+                h3 {
+                    width: fit-content;
+                    margin: 0 auto;
+                    padding: 5px 30px;
+                    border-radius: 15px;
+                    font-size: 23.5px;
+                    color: #433f3f;
+                    text-transform: uppercase;
+                    margin-top: 15px;
+                }
+            }
+
+            .voucher {
+                width: 100%;
+                height: auto;
+                display: flex;
+                flex-direction: row;
+
+                .left,
+                .right {
+                    width: 50%;
+                    height: 100%;
+
+                    .title-left {
+                        font-weight: 600;
+                        margin: 0 auto;
+                        width: fit-content;
+                        box-shadow: 0 1px 6px #20212447;
+                        height: 8%;
+                        padding: 10px 20px;
+                        font-size: 17px;
+                        color: #000000;
+                        text-transform: uppercase;
+                        margin-bottom: 20px;
+                        background-color: rgb(248, 210, 140);
+                    }
+
+                    .voucher-left {
+                        width: 100%;
+                        height: auto;
+                        display: flex;
+                        flex-direction: column;
+
+                        div {
+                            width: 100%;
+                            height: 25%;
+                            box-shadow: 0 1px 6px #20212447;
+                            padding-bottom: 34px;
+                            text-align: center;
+
+                            img {
+                                width: 100%;
+                                height: 200px;
+                            }
+                        }
+                    }
+                }
+
+                .left {
+                    margin-right: 25px;
+                }
+            }
+
+        }
+
+
+    }
+}

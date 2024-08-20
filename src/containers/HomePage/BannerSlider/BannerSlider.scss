@@ -1,0 +1,23 @@
+.banner-slide-container {
+    width: 100%;
+    height: fit-content;
+    padding: 25px 0;
+
+    .react-slideshow-container {
+        width: 60% !important;
+        margin: 0 auto;
+
+        .each-slide {
+            width: 100%;
+            height: 470px !important;
+
+            img {
+                width: 100%;
+                height: 100%;
+                border-radius: 40px;
+            }
+        }
+    }
+
+
+}

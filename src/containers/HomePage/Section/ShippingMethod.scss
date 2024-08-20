@@ -1,0 +1,76 @@
+.shipping-method-container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    padding: 50px 100px;
+    border-top: 1px solid #ddd;
+
+    .content-left {
+        width: 650px;
+        height: 400px;
+        box-shadow: 0 1px 6px #20212447;
+        margin-right: 15px;
+
+        .content-left-up {
+            width: 100%;
+            height: 52%;
+            padding: 20px 13px 0 35px;
+
+            h2 {
+                color: #191919;
+                font-size: 28px;
+                font-weight: 700;
+                margin-bottom: 17px;
+            }
+
+            h3 {
+                color: #191919;
+                font-size: 21px;
+                font-weight: 400;
+            }
+
+            p {
+                color: #191919;
+                font-size: 15px;
+            }
+        }
+
+        .content-left-down {
+            box-shadow: 0 1px 6px #20212447;
+            width: 100%;
+            height: 38%;
+            background-color: orange;
+            display: flex;
+            flex-direction: column;
+            padding: 30px 0 0 50px;
+
+            h4 {
+                font-weight: 550;
+                margin-bottom: 30px;
+            }
+
+            .shipping-service {
+                display: flex;
+                flex-direction: row;
+                gap: 115px;
+
+                span {
+                    font-size: 15px;
+                    color: #191919;
+                }
+            }
+        }
+    }
+
+    .content-right {
+        width: 600px;
+        height: auto;
+
+        img {
+            width: 100%;
+            height: 100%;
+            border-radius: 30px;
+        }
+    }
+}

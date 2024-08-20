@@ -1,0 +1,150 @@
+{
+    "home-header": {
+        "introduction": "Giới thiệu",
+        "voucher": "Mã ưu đãi",
+        "incentives": "Chính sách",
+        "country": "Việt Nam",
+        "welcome": "Xin chào, ",
+        "sign-in": "Đăng nhập",
+        "sign-out": "Đăng xuất"
+    },
+    "banner": {
+        "title": "Bạn muốn theo dõi lô hàng ?",
+        "search-btn": "Theo dõi",
+        "text-child1": "Đặt hàng",
+        "text-child2": "Bảng giá",
+        "text-child3": "Dịch vụ dành cho khách hàng"
+    },
+    "sub-footer": {
+        "title1": "Đường liên kết nhanh",
+        "title2": "Dịch vụ Khách hàng",
+        "title3": "Đăng nhập Cổng thông tin Khách hàng",
+        "title4": "Đối tác Kỹ thuật số và Tích hợp",
+        "title5": "Cổng thông tin Nhà phát triển",
+        "title6": "Nhận Báo giá",
+        "title7": "Smart Logi cho Khách hàng doanh nghiệp",
+        "title8": "Các mảng kinh doanh của Smart Logi",
+        "title9": "Smart Logi Chuyển phát nhanh",
+        "title10": "Smart Logi Vận tải quốc tế",
+        "title11": "Chuỗi cung ứng Smart Logi",
+        "title12": "Các bộ phận khác trên toàn cầu",
+        "title13": "Thông tin công ty",
+        "title14": "Giới thiệu về Smart Logi",
+        "title15": "Dịch vụ giao hàng",
+        "title16": "Chính sách ưu đãi",
+        "title17": "Trung tâm báo chí",
+        "title18": "Nhà đầu tư",
+        "title19": "Hợp tác thương hiệu"
+    },
+    "home-footer": {
+        "title1": "Nhận thức về gian lận",
+        "title2": "Thông báo pháp luật",
+        "title3": "Điều kiện sử dụng",
+        "title4": "Thông báo về quyền riêng tư",
+        "title5": "Giải quyết tranh chấp",
+        "title6": "Thông tin thêm",
+        "follow": "Theo dõi chúng tôi qua"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Người dùng",
+            "manage-doctor": "Quản lí bác sĩ",
+            "manage-admin": "Quản lí Admin",
+            "crud": "CRUD User",
+            "crud-redux": "Quản lí tất cả người dùng",
+            "clinic": "Phòng khám",
+            "manage-clinic": "Quản lí phòng khám",
+            "specialty": "Chuyên khoa",
+            "manage-specialty": "Quản lí chuyên khoa",
+            "handbook": "Cẩm nang",
+            "manage-handbook": "Quản lí cẩm nang"
+        },
+        "doctor": {
+            "manage-schedule": "Quản lí lịch khám bệnh"
+        }
+    },
+    "homepage": {
+        "out-standing-doctor": "Bác sĩ nổi bật tuần qua",
+        "more-infor": "Xem thêm",
+        "popular-specialties": "Chuyên khoa phổ biến",
+        "out-standing-facilities": "Cơ sở y tế nổi bật",
+        "handbook": "Cẩm nang",
+        "about-title": "Truyền thông nói gì về BookingCare"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Lịch khám",
+            "no-schedule": "* Bác sĩ hiện không có lịch hẹn khám bệnh nào trong ngày này.",
+            "choose": "Chọn ",
+            "book-free": " và đặt lịch (miễn phí)"
+        },
+        "extra-infor-doctor": {
+            "text-address": "Địa chỉ khám",
+            "price": "Giá khám",
+            "detail": "Xem chi tiết",
+            "payment": "Phòng khám có hình thức thanh toán chi phí bằng hình thức:",
+            "hide-price": "Ẩn bảng giá"
+        },
+        "booking-modal": {
+            "title-modal": "Thông tin đặt lịch khám bệnh",
+            "price": "Giá khám",
+            "confirm": "Xác nhận",
+            "cancel": "Hủy",
+            "fullName": "Họ và tên",
+            "phoneNumber": "Số điện thoại",
+            "address": "Địa chỉ liên hệ",
+            "email": "Địa chỉ email",
+            "reason": "Lí do khám bệnh",
+            "birthday": "Ngày sinh",
+            "gender": "Giới tính"
+        },
+        "detail-specialty": {
+            "no-found-doctor": "Không tìm thấy dữ liệu bác sĩ nào.",
+            "more-detail-doctor": "Xem thêm"
+        }
+    },
+    "admin": {
+        "manage-user": {
+            "add": "Thêm mới người dùng",
+            "modal-create": {
+                "email": "Email",
+                "password": "Mật khẩu",
+                "first-name": "Tên",
+                "last-name": "Họ",
+                "phone-number": "Số điện thoại",
+                "address": "Địa chỉ",
+                "gender": "Giới tính",
+                "position": "Chức danh",
+                "role": "Vai trò",
+                "image": "Ảnh đại diện",
+                "btn-save": "Lưu người dùng",
+                "upload": "Tải ảnh"
+            },
+            "modal-delete": {
+                "title": "Xóa người dùng",
+                "confirm": "Bạn có muốn xóa người dùng: "
+            }
+        },
+        "manage-schedule": {
+            "title": "Quản lý lịch khám bệnh của bác sĩ",
+            "choose-doctor": "Chọn bác sĩ",
+            "choose-date": "Chọn ngày khám bệnh",
+            "button-save": "Lưu thông tin"
+        },
+        "manage-doctor": {
+            "title": "Tạo thêm thông tin bác sĩ",
+            "select-doctor": "Chọn bác sĩ",
+            "infor": "Thông tin giới thiệu",
+            "save": "Lưu thông tin",
+            "update": "Sửa thông tin",
+            "price": "Giá khám bệnh",
+            "payment": "Phương thức thanh toán",
+            "province": "Tỉnh thành",
+            "name-clinic": "Tên phòng khám",
+            "address-clinic": "Địa chỉ phòng khám",
+            "note": "Ghi chú",
+            "specialty": "Chọn chuyên khoa",
+            "clinic": "Chọn phòng khám"
+        }
+    }
+}

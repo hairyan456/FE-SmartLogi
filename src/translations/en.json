@@ -1,0 +1,150 @@
+{
+    "home-header": {
+        "introduction": "Introduction",
+        "voucher": "Vouchers",
+        "incentives": "Incentives",
+        "country": "Vietnam",
+        "welcome": "Welcome, ",
+        "sign-in": "Login",
+        "sign-out": "Logout"
+    },
+    "banner": {
+        "title": "You want to follow your shipment ?",
+        "search-btn": "Search",
+        "text-child1": "Order",
+        "text-child2": "Price list",
+        "text-child3": "Service for customers"
+    },
+    "sub-footer": {
+        "title1": "Quick Links",
+        "title2": "Customer Service",
+        "title3": "Customer Portal Login",
+        "title4": "Digital and Integration Partners",
+        "title5": "Developer Portal",
+        "title6": "Get a Quote",
+        "title7": "Smart Logi for Enterprise Customers",
+        "title8": "Smart Logi Business Areas",
+        "title9": "Smart Logi Express",
+        "title10": "Smart Logi Global Forwarding",
+        "title11": "Smart Logi Supply Chain",
+        "title12": "Other Global Divisions",
+        "title13": "Company Information",
+        "title14": "About Smart Logi",
+        "title15": "Delivered",
+        "title16": "Incentives",
+        "title17": "Press Center",
+        "title18": "Investors",
+        "title19": "Brand Partnerships"
+    },
+    "home-footer": {
+        "title1": "Awareness of Fraud",
+        "title2": "Legal Notice",
+        "title3": "Terms of Use",
+        "title4": "Privacy Notice",
+        "title5": "Dispute Resolution",
+        "title6": "Additional Information",
+        "follow": "Follow us on social media"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "User",
+            "manage-doctor": "Manage Doctors",
+            "manage-admin": "Manage Admin",
+            "crud": "CRUD User",
+            "crud-redux": "Manage all Users",
+            "clinic": "Clinic",
+            "manage-clinic": "Manage clinic",
+            "specialty": "Specialty",
+            "manage-specialty": "Manage specialty",
+            "handbook": "Handbook",
+            "manage-handbook": "Manage handbook"
+        },
+        "doctor": {
+            "manage-schedule": "Manage doctor's schedule"
+        }
+    },
+    "homepage": {
+        "out-standing-doctor": "Last week's featured doctors",
+        "more-infor": "More Infor",
+        "popular-specialties": "Popular Specialties",
+        "out-standing-facilities": "Outstanding medical facilities",
+        "handbook": "Handbooks",
+        "about-title": "BookingCare in the media"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Schedule",
+            "no-schedule": "* Doctor does not have any appointment during this time!",
+            "choose": "Choose ",
+            "book-free": " and book (free)"
+        },
+        "extra-infor-doctor": {
+            "text-address": "Address of Clinic",
+            "price": "Examination price",
+            "detail": "More detail",
+            "payment": "The patient can pay the cost in form of:",
+            "hide-price": "Hide price"
+        },
+        "booking-modal": {
+            "title-modal": "Medical appointment scheduling information",
+            "price": "Price:",
+            "confirm": "Confirm",
+            "cancel": "Cancel",
+            "fullName": "Full name",
+            "phoneNumber": "Phone number",
+            "address": "Address contact",
+            "email": "Email address",
+            "reason": "Reason",
+            "birthday": "Birthday",
+            "gender": "Gender"
+        },
+        "detail-specialty": {
+            "no-found-doctor": "No data doctor can be found.",
+            "more-detail-doctor": "More detail"
+        }
+    },
+    "admin": {
+        "manage-user": {
+            "add": "Add new user",
+            "modal-create": {
+                "email": "Email",
+                "password": "Password",
+                "first-name": "First name",
+                "last-name": "Last name",
+                "phone-number": "Phone number",
+                "address": "Address",
+                "gender": "Gender",
+                "position": "Position",
+                "role": "Role",
+                "image": "Avatar",
+                "btn-save": "Save user",
+                "upload": "Upload"
+            },
+            "modal-delete": {
+                "title": "Delete user",
+                "confirm": "Do you want to delete this user: "
+            }
+        },
+        "manage-schedule": {
+            "title": "Manage doctor's examination plan",
+            "choose-doctor": "Choose another doctor",
+            "choose-date": "Choose another date",
+            "button-save": "Save information"
+        },
+        "manage-doctor": {
+            "title": "Create more information for doctor",
+            "select-doctor": "Choosing another doctor",
+            "infor": "Introduction",
+            "save": "Save information",
+            "update": "Update information",
+            "price": "Price",
+            "payment": "Payment",
+            "province": "Province",
+            "name-clinic": "Clinic's name",
+            "address-clinic": "Address's clinic",
+            "note": "Note",
+            "specialty": "Specialty",
+            "clinic": "Clinic"
+        }
+    }
+}
