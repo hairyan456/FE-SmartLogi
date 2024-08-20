@@ -42,6 +42,9 @@ class ModalVoucher extends Component {
                         <span >Danh sách mã ưu đãi <i class="fas fa-gift"></i></span>
                         <div className='business-voucher'>
                             <div className='title'><h3>Đối với doanh nghiệp</h3></div>
+                            <div style={{ color: 'black', marginLeft: '250px', marginBottom: '50px', fontSize: '19px' }} >
+                                Duy nhất mã giảm 65% cho lần đầu: <p style={{ color: 'red', marginLeft: '60px' }}>SL65-fUQ81sT04QL</p>
+                            </div>
                             <div className='voucher'>
                                 <div className='left'>
                                     <div className='title-left'>Mùa bình thường</div>
